@@ -6,4 +6,4 @@ It will first be designed for fantasy settings, but sci-fi and modern will be in
 
 For those reading this on github, this is a non-code project.
 
-This project will be best viewed using [gitbook](www.gitbook.com) until I export it.
+This project will be best viewed using [gitbook](http://www.gitbook.com) until I export it.
