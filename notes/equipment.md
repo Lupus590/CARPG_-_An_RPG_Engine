@@ -37,9 +37,11 @@ Assessing items in a bag generally takes longer than those on your person, howev
 ##equipment/items/weapons
 * back
 * waist
+* chest
+* (the following are seperate for left an right, but only have one entry)
 * calfs
 * forarms
 * upperarms
 * thighs
-* chest
+
 
