@@ -17,3 +17,17 @@ xp from fail?
 
 books can provide boosts to skills, however some situations may not allow you to easily or safely read them
 
+#possible stats
+* body
+ * flexibility - 
+ * strength - effects character size and carry max
+ * endurance - pain and fategue resistance (en
+ * coordination
+ * speed
+* mind
+ * intelligence
+ * willpower
+ * focus
+ * reaction
+
+* 
