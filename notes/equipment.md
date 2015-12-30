@@ -55,5 +55,4 @@ equipment has a weight and a volume, volume is usually a lesser issue as it only
 
 some things may use multiple slots at the same time, others may be able to go in many slots but only use one of the slots chosen
 
-
-the weight and volume of your equipment will have differnt effects on your character.
+the weight and volume of your equipment will have differnt effects on your character, depending on your stats and the weight/volume.
