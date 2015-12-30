@@ -14,8 +14,7 @@ Acceptance of lore and rule changes will be entirely on if I like it.
 
 Spelling corrections are welcome, please keep them to UK English.
 
-Translations are welcome (even into US English), please don't make any pull requests with the translated version. I suggest having your translation as a separate git branch.
-
+Translations are welcome (even into US English), gitbook has a way to handle translations, feel free to make pull requests.
 
 
 ##The original git repo/book is available from these locations
