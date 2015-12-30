@@ -53,3 +53,5 @@ Assessing items in a bag generally takes longer than those on your person, howev
 
 equipment has a weight and a volume, volume is usually a lesser issue as it only applies for containers (such as your bag)
 
+some things may use multiple slots at the same time, others may be able to go in many slots but only use one of the slots chosen
+
