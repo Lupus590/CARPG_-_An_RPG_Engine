@@ -1,6 +1,6 @@
 god aspects? http://thaumcraft-4.wikia.com/wiki/Aspects http://ftbwiki.org/List_of_Aspects_%28Thaumcraft_4.2%29
 
-science, tech and magic http://www.springhole.net/writing/mix-science-and-magic.htm
+
 
 Gods have holy days, clerics get a bonus on these days.
 
