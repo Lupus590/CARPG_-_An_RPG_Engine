@@ -26,3 +26,6 @@ tech is just automated magic
 science, tech and magic http://www.springhole.net/writing/mix-science-and-magic.htm
 
 magic is left overs from when the universe was made
+
+#chi or ninja movie magic
+substatue: swap places with an inanimate object which you can move. The object takes the attack which was targeted at you. The object has to be in line of sight and within your move distance.
