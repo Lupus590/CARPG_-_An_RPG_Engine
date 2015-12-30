@@ -9,3 +9,31 @@ combat time makes the assumption that the character has dropped their bags. char
 
 #item access and location
 Assessing items in a bag generally takes longer than those on your person, however bags can carry both more items and larger items. 
+
+#slots
+##armour
+* head
+* eyes
+* face
+* neck
+* chest
+* back
+* waist
+* (the following are seperate for left an right, but only have one entry)
+* hand
+* forarm
+* shoulder
+* upper arm
+* foot
+* calf
+* thigh
+
+##equipment/items/weapons
+* back
+* waist
+* calfs
+* forarms
+* upperarms
+* thighs
+* chest
+
