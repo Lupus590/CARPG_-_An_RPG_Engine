@@ -1,4 +1,4 @@
-action point (AP) and endurance points (EP)
+action point (AP) and extended points (EP)
 
 combat has rounds but not turns
 
