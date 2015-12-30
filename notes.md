@@ -9,12 +9,9 @@ science, tech and magic http://www.springhole.net/writing/mix-science-and-magic.
 
 creature/race creator http://www.springhole.net/writing/fantasy-and-science-fiction-creature-development-questions.htm
 
-
 Gods have holy days, cleric like caractera get a bonus on these days.
 
 https://drive.google.com/folderview?id=0B-PTl1ncCsOqfkZxUnVpQ3NocTBFbUswckFuVXE1MnZBbGJDLTA4dkR5aW5zTXBtQ0l0VDQ&usp=sharing
-
-
 
 Stat cap?
 Base/nateral stat cap only? Items and buffs can push you over cap
