@@ -23,5 +23,6 @@ From the sourcoers apprentcice (film)
 * "both, if you want to set something on fire, you vibrate its molucules until so that they produce heat. Eventually it will combust."
 
 tech is just automated magic
+science, tech and magic http://www.springhole.net/writing/mix-science-and-magic.htm
 
 magic is left overs from when the universe was made
