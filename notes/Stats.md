@@ -34,4 +34,4 @@ books can provide boosts to skills, however some situations may not allow you to
 #pain
 when character takes damage, compair damage to [modify from endurance and/or focus (avaerage? larger? total?)] and compair to a pain table.
 
-pain table has effects ranging from "you ignore it" to stat modifiers to "you faint from the pain"
+pain table has effects ranging from "you ignore it" to stat modifiers to "you faint from the pain" to "enjoy your coma"
