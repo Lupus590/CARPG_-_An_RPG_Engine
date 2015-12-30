@@ -13,3 +13,5 @@ creature/race creator http://www.springhole.net/writing/fantasy-and-science-fict
 * statistic = a factor or peice of data
  
 
+xp from fail?
+
