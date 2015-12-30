@@ -49,4 +49,7 @@ Assessing items in a bag generally takes longer than those on your person, howev
 * upperarm
 * thigh
 * any equimpent not in one of these slots or currently held is considered to be inside of or attached to the character's bag
+* your bag/s will take one or more of these slots
+
+equipment has a weight and a volume, volume is usually a lesser issue as it only applies for containers (such as your bag)
 
