@@ -3,3 +3,21 @@ http://www.springhole.net/writing/keeping-shapeshifters-from-getting-overpowered
 http://www.springhole.net/writing/better-and-more-interesting-powers.htm
 http://www.springhole.net/writing/keeping-magic-from-taking-over.htm
 
+#3 types of magic?
+* inercio - energy
+* ??? - mass
+* cognita - intelligence
+
+different spells cost different ammounts of each component
+
+example spell: homming friendly fireball
+* homing = intelligence and energy
+* friendly = intelligence
+* fire = energy
+* projectile (ball) = mass and energy
+* 
+
+#Magic is a science
+From the sourcoers apprentcice (film)
+* "is this science or magic?"
+* "both, if you want to set something on fire, you vibrate its molucules until so that they produce heat. Eventually it will combust.
