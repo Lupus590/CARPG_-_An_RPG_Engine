@@ -26,7 +26,12 @@ books can provide boosts to skills, however some situations may not allow you to
 * mind
  * intelligence - proportinal to characcter's IQ
  * willpower - magic resistance and magical power
- * focus - max spell casts in a time
+ * focus - max spell casts in a time, pain and fategue resistance)
  * perception - allertness, (part of) reaction time, 
 
 * 
+
+#pain
+when character takes damage, compair damage to [modify from endurance and/or focus (avaerage? larger? total?)] and compair to a pain table.
+
+pain table has effects ranging from "you ignore it" to stat modifiers to "you faint from the pain"
