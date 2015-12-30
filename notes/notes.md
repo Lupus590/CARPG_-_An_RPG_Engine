@@ -1,6 +1,4 @@
-god aspects? http://thaumcraft-4.wikia.com/wiki/Aspects http://ftbwiki.org/List_of_Aspects_%28Thaumcraft_4.2%29
 
-Gods have holy days, clerics get a bonus on these days.
 
 https://drive.google.com/folderview?id=0B-PTl1ncCsOqfkZxUnVpQ3NocTBFbUswckFuVXE1MnZBbGJDLTA4dkR5aW5zTXBtQ0l0VDQ&usp=sharing
 
