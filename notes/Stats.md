@@ -29,7 +29,7 @@ books can provide boosts to skills, however some situations may not allow you to
  * focus - max spell casts in a time, pain and fategue resistance)
  * perception - allertness, (part of) reaction time, 
 
-* 
+* how to do character interaction??
 
 #pain
 when character takes damage, compair damage to [modify from endurance and/or focus (avaerage? larger? total?)] and compair to a pain table.
