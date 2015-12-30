@@ -15,3 +15,5 @@ creature/race creator http://www.springhole.net/writing/fantasy-and-science-fict
 
 xp from fail?
 
+books can provide boosts to skills, however some situations may not allow you to easily or safely read them
+
