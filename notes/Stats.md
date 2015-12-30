@@ -19,15 +19,14 @@ books can provide boosts to skills, however some situations may not allow you to
 
 #possible stats
 * body
- * flexibility - 
  * strength - effects character size and carry max
  * endurance - pain and fategue resistance (en
- * coordination
- * speed
+ * dexterity - fine manipulation, used in crafting and healing
+ * agility - acrobatics, dodge
 * mind
- * intelligence
- * willpower
- * focus
- * reaction
+ * intelligence - proportinal to characcter's IQ
+ * willpower - magic resistance and magical power
+ * focus - max spell casts in a time
+ * perception - allertness, (part of) reaction time, 
 
 * 
