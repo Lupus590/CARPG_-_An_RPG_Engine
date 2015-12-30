@@ -21,5 +21,7 @@ example spell: homming friendly fireball
 From the sourcoers apprentcice (film)
 * "is this science or magic?"
 * "both, if you want to set something on fire, you vibrate its molucules until so that they produce heat. Eventually it will combust."
-* ~
-* ]
+
+tech is just automated magic
+
+magic is left overs from when the universe was made
