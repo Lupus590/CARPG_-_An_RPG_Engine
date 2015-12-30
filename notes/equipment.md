@@ -1,7 +1,7 @@
-#armour and clothing
-* one size *does not* fit all
+#armour, clothing jullery
+* one size *does not* always fit all
 * different items effect stats in different ways:
- * clothing has no effect on stats, but provides no armour
+ * clothing and jullery has no effect on stats, but provides no armour
  * light armour has little penalty to stats, but provides some damage resistance
  * heavy armour has more effect on stats, but provides the most damage resistance
  * Enchantemnts can change anything
@@ -17,7 +17,7 @@ combat time makes the assumption that the character has dropped their bags. char
 Assessing items in a bag generally takes longer than those on your person, however bags can carry both more items and larger items. 
 
 #slots
-##clothing and armour
+##clothing, armour and jullery
 * head
  * face
   * eyes
