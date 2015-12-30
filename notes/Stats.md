@@ -9,7 +9,7 @@ creature/race creator http://www.springhole.net/writing/fantasy-and-science-fict
 * talent = natural aptitude
 * trait = distinguishing quality/characteristic
 * characteristic = a feature ot something or someone which identifies them
-* attribute = (see characteristic) or a real property which a a statistical analysis i attempting to describe
+* attribute = (see characteristic) or a real property which a a statistical analysis is attempting to describe
 * statistic = a factor or peice of data
  
 
