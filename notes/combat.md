@@ -8,4 +8,4 @@ spend AP to do things in structured (combat) time
 
 spend EP to refill AP points
 
-EP recharges slowly over time
+EP recharges slowly over time, it is unlikely that players will run out of EP, but tireing your enimy is a valid tatic
