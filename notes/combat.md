@@ -10,3 +10,4 @@ spend EP to refill AP points
 
 EP recharges slowly over time, it is unlikely that players will run out of EP, but tiring your enemy is a valid tactic
 
+two types of damage, lethal and non lethal
