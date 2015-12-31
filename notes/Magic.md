@@ -8,9 +8,9 @@ http://www.springhole.net/writing/keeping-magic-from-taking-over.htm
 * ??? - mass
 * cognita - intelligence
 
-different spells cost different ammounts of each component
+different spells cost different amounts of each component
 
-example spell: homming friendly fireball
+example spell: homing friendly fireball
 * homing = intelligence and energy
 * friendly = intelligence
 * fire = energy
@@ -18,9 +18,9 @@ example spell: homming friendly fireball
 
 
 #Magic is a science
-From the sourcoers apprentcice (film)
+From the sorcerers apprentice (film)
 * "is this science or magic?"
-* "both, if you want to set something on fire, you vibrate its molucules until so that they produce heat. Eventually it will combust."
+* "both, if you want to set something on fire, you vibrate its molecules until so that they produce heat. Eventually it will combust."
 
 tech is just automated magic
 science, tech and magic http://www.springhole.net/writing/mix-science-and-magic.htm
@@ -28,4 +28,4 @@ science, tech and magic http://www.springhole.net/writing/mix-science-and-magic.
 magic is left overs from when the universe was made
 
 #chi or ninja movie magic
-substatue: swap places with an inanimate object which you can move. The object takes the attack which was targeted at you. The object has to be in line of sight and within your move distance.
+substitute: swap places with an inanimate object which you can move. The object takes the attack which was targeted at you. The object has to be in line of sight and within your move distance.
