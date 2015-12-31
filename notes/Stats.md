@@ -10,7 +10,7 @@ creature/race creator http://www.springhole.net/writing/fantasy-and-science-fict
 * trait = distinguishing quality/characteristic
 * characteristic = a feature ot something or someone which identifies them
 * attribute = (see characteristic) or a real property which a a statistical analysis is attempting to describe
-* statistic = a factor or peice of data
+* statistic = a factor or piece of data
  
 
 xp from fail?
@@ -20,18 +20,18 @@ books can provide boosts to skills, however some situations may not allow you to
 #possible stats
 * body
  * strength - effects character size and carry max
- * endurance - pain and fategue resistance (en
+ * endurance - pain and fatigue resistance (en
  * dexterity - fine manipulation, used in crafting and healing
  * agility - acrobatics, dodge
 * mind
- * intelligence - proportinal to characcter's IQ
+ * intelligence - proportional to character's IQ
  * willpower - magic resistance and magical power
- * focus - max spell casts in a time, pain and fategue resistance)
- * perception - allertness, (part of) reaction time, 
+ * focus - max spell casts in a time, pain and fatigue resistance)
+ * perception - alertness, (part of) reaction time, 
 
 * how to do character interaction??
 
 #pain
-when character takes damage, compair damage to [modify from endurance and/or focus (avaerage? larger? total?)] and compair to a pain table.
+when character takes damage, compare damage to [modify from endurance and/or focus (average? larger? total?)] and compare to a pain table.
 
 pain table has effects ranging from "you ignore it" to stat modifiers to "you faint from the pain" to "enjoy your coma"
