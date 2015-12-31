@@ -4,7 +4,7 @@
  * clothing and jullery has no effect on stats, but provides no armour
  * light armour has little penalty to stats, but provides some damage resistance
  * heavy armour has more effect on stats, but provides the most damage resistance
- * Enchantemnts can change anything
+ * Enchantments can change anything
 
 
 #weapons
@@ -26,11 +26,11 @@ Assessing items in a bag generally takes longer than those on your person, howev
 * chest
 * back
 * waist
-* (the following are seperate for left an right, but only have one entry)
+* (the following are separate for left an right, but only have one entry)
 * hand
  * wrist
  * finger x5
-* forarm
+* forearm
 * shoulder
 * upper arm
 * foot
@@ -43,16 +43,16 @@ Assessing items in a bag generally takes longer than those on your person, howev
 * back
 * waist
 * chest
-* (the following are seperate for left an right, but only have one entry)
+* (the following are separate for left an right, but only have one entry)
 * calf
-* forarm
-* upperarm
+* forearm
+* upper-arm
 * thigh
-* any equimpent not in one of these slots or currently held is considered to be inside of or attached to the character's bag
+* any equipment not in one of these slots or currently held is considered to be inside of or attached to the character's bag
 * your bag/s will take one or more of these slots
 
 equipment has a weight and a volume, volume is usually a lesser issue as it only applies for containers (such as your bag)
 
 some things may use multiple slots at the same time, others may be able to go in many slots but only use one of the slots chosen
 
-the weight and volume of your equipment will have differnt effects on your character, depending on your stats and the weight/volume.
+the weight and volume of your equipment will have different effects on your character, depending on your stats and the weight/volume.
