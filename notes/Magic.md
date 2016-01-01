@@ -36,4 +36,4 @@ substitute: swap places with an inanimate object which you can move. The object 
 * ingredient items?
 * focus/catalyst items?
 
-concentration
+concentration and cast time
