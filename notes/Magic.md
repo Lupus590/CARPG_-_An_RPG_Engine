@@ -35,4 +35,5 @@ substitute: swap places with an inanimate object which you can move. The object 
 * gestures?
 * ingredient items?
 * focus/catalyst items?
-* 
+
+concentration
