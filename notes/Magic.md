@@ -29,3 +29,5 @@ magic is left overs from when the universe was made
 
 #chi or ninja movie magic
 substitute: swap places with an inanimate object which you can move. The object takes the attack which was targeted at you. The object has to be in line of sight and within your move distance.
+
+#item requirement to cast?
