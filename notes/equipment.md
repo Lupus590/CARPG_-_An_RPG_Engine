@@ -56,3 +56,19 @@ equipment has a weight and a volume, volume is usually a lesser issue as it only
 some things may use multiple slots at the same time, others may be able to go in many slots but only use one of the slots chosen
 
 the weight and volume of your equipment will have different effects on your character, depending on your stats and the weight/volume.
+
+
+#quality
+from mount and blade: http://images.akamai.steamusercontent.com/ugc/526132049038971695/18377C4070915AD9E6B3614F250272126A6E5172/
+
+Modifier | Requirement | Speed | Damage | Cost(%)
+--- | --- | --- | --- | ---
+Masterwork | +4 | +1 | +5 | +1630
+Tempered | | | +4 | +670
+Strong | +2 | -3 | +3 | +360
+Balanced | | +3 | +3 | +250
+Heavy | +1 | -2 | +2 | +90
+Chipped | | -1 | -28
+Rusty | | | -3 | -45
+Cracked | | | -5 | -50
+Bent | | -3 | -3 | -35
