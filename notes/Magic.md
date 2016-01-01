@@ -40,5 +40,5 @@ concentration and cast time
 
 range
 
-enchanted items
+enchanted items/potions
 
