@@ -68,7 +68,7 @@ Tempered | | | +4 | +670
 Strong | +2 | -3 | +3 | +360
 Balanced | | +3 | +3 | +250
 Heavy | +1 | -2 | +2 | +90
-Chipped | | -1 | -28
+Chipped | | | -1 | -28
 Rusty | | | -3 | -45
 Cracked | | | -5 | -50
 Bent | | -3 | -3 | -35
