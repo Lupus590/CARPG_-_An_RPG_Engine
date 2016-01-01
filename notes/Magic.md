@@ -37,3 +37,5 @@ substitute: swap places with an inanimate object which you can move. The object 
 * focus/catalyst items?
 
 concentration and cast time
+
+range
