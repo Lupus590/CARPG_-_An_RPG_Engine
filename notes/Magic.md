@@ -39,3 +39,6 @@ substitute: swap places with an inanimate object which you can move. The object 
 concentration and cast time
 
 range
+
+enchanted items
+
