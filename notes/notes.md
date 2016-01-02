@@ -10,3 +10,5 @@ When a PC or an important NPC is about to die they can perform an amazing action
 
 #by the book
 some items may unlock/boost skills
+
+http://www.critical-hits.com/blog/2011/07/14/nonplayer-conundrum/
