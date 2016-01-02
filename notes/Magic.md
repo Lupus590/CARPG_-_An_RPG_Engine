@@ -42,3 +42,13 @@ range
 
 enchanted items/potions
 
+from http://www.critical-hits.com/blog/2015/03/12/a-quick-dd-5e-spellcasting-primer/
+* Wizards have a limited number of spells in their spellbook, from which they prepare which spells they have access to for the day, and they have a certain number of slots per level to cast them.
+* Clerics have all the cleric spells to choose from to decide what to prepare, plus their domain spells they always have prepared, with a limited number of spell slots per level to cast them.
+* Druids operate similarly to Clerics, but use their circles instead of domains.
+* Sorcerers have a limited number of spells, which are all always prepared, and they have a certain number of slots per level to cast them. They also have spell points to regain spells or use other abilities, and they can burn spell slots to gain more spell points.
+* Warlocks have an extremely limited number of spells, which are all always prepared, and a very limited number of slots (all used at their highest level) to cast them. However, they regain their spell slots during either a short or long rest. They also are likely to get a number of other spells from their pacts, invocations, and so on.
+* Paladins cast spells like a Cleric.
+* Rangers cast spells like Druids.
+* Bards, Rogue Arcane Tricksters, and Fighter Eldritch Knights work like Sorcerers, without the spell points.
+* Barbarians don’t cast spells. You’ll just have to settle for raging.
