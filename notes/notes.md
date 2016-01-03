@@ -21,3 +21,5 @@ http://www.critical-hits.com/blog/2010/04/02/mailbag1/
 
 http://www.critical-hits.com/blog/2010/03/10/beginners-guide-to-homebrewing/
 
+http://www.critical-hits.com/blog/2009/08/05/silly-dm-minor-quests-are-for-players/
+
