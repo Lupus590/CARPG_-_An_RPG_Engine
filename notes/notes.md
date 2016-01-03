@@ -15,3 +15,7 @@ http://www.critical-hits.com/blog/2011/07/14/nonplayer-conundrum/
 
 http://www.critical-hits.com/blog/2011/08/16/the-experience/
 
+http://www.critical-hits.com/blog/2010/04/05/become-emotional/
+
+http://www.critical-hits.com/blog/2010/04/02/mailbag1/
+
