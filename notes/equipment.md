@@ -74,3 +74,5 @@ Cracked | | | -5 | -50
 Bent | | -3 | -3 | -35
 
 http://www.critical-hits.com/blog/2008/12/23/a-million-little-pieces-of-equipment/
+
+www.enworld.org/forum/showthread.php?246133-quot-Bulk-quot-rules-are-needed&p=4574570&viewfull=1#post4574570
