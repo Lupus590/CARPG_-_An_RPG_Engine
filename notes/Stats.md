@@ -37,4 +37,6 @@ when character takes damage, compare damage to [modify from endurance and/or foc
 pain table has effects ranging from "you ignore it" to stat modifiers to "you faint from the pain" to "enjoy your coma"
 
 http://www.critical-hits.com/blog/2010/02/04/bad-alignment/
+Beliefs, Goals and quirks
+
 
