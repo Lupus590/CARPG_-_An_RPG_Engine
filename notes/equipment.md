@@ -72,3 +72,5 @@ Chipped | | | -1 | -28
 Rusty | | | -3 | -45
 Cracked | | | -5 | -50
 Bent | | -3 | -3 | -35
+
+http://www.critical-hits.com/blog/2008/12/23/a-million-little-pieces-of-equipment/
