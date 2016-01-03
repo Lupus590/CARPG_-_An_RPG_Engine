@@ -19,3 +19,5 @@ http://www.critical-hits.com/blog/2010/04/05/become-emotional/
 
 http://www.critical-hits.com/blog/2010/04/02/mailbag1/
 
+http://www.critical-hits.com/blog/2010/03/10/beginners-guide-to-homebrewing/
+
