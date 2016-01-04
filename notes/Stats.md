@@ -41,3 +41,5 @@ Beliefs, Goals and quirks
 
 http://www.d20srd.org/srd/variant/adventuring/vitalityAndWoundPoints.htm
 
+http://www.d20source.com/post/79193018777/changing-the-world-classes
+
