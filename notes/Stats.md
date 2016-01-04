@@ -39,4 +39,5 @@ pain table has effects ranging from "you ignore it" to stat modifiers to "you fa
 http://www.critical-hits.com/blog/2010/02/04/bad-alignment/
 Beliefs, Goals and quirks
 
+http://www.d20srd.org/srd/variant/adventuring/vitalityAndWoundPoints.htm
 
