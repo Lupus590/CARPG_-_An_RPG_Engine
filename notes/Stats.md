@@ -11,7 +11,9 @@ creature/race creator http://www.springhole.net/writing/fantasy-and-science-fict
 * characteristic = a feature ot something or someone which identifies them
 * attribute = (see characteristic) or a real property which a a statistical analysis is attempting to describe
 * statistic = a factor or piece of data
- 
+
+100 based stat system?
+rules for rolls: take average of relevant stats, add modifiers, subtract by opponent average of relevant stats, subtract by opponent modifiers, add dice roll. Success on total being 100 or more, fail otherwise.
 
 xp from fail?
 
