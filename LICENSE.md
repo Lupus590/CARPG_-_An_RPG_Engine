@@ -2,6 +2,8 @@
 
 use [DBAJ licence](https://github.com/lupus590/DBaJ)?
 
+if using pathfinder as a base, will have to change to their license (open game or something)
+
 ##For things not mine
 Any images linked to or included in this git repo belong to the people who created them.
 
