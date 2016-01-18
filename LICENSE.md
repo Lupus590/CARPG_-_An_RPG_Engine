@@ -2,7 +2,7 @@
 
 use [DBAJ licence](https://github.com/lupus590/DBaJ)?
 
-if using pathfinder as a base, will have to change to their license (open game or something)
+if using pathfinder as a base, will have to change to their license (open game content license) (advantage, lots of content already made. disadvantage, need to understand their rules, adventures may require modification by GM)
 
 ##For things not mine
 Any images linked to or included in this git repo belong to the people who created them.
