@@ -1,5 +1,7 @@
 #License
 
+use [DBAJ licence](https://github.com/lupus590/DBaJ)?
+
 ##For things not mine
 Any images linked to or included in this git repo belong to the people who created them.
 
