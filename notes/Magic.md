@@ -16,6 +16,10 @@ example spell: homing friendly fireball
 * fire = energy
 * projectile (ball) = mass and energy
 
+Every one has a magic pool, life points can be used as overdraw.
+
+Everybody pool rarely changes in size. All spells are unlocked from the start, but not all will be castable from level one. Instead spells get cheaper to cast, some spells can be super charged to increase effects.
+
 
 #Magic is a science
 From the sorcerers apprentice (film)
