@@ -4,6 +4,7 @@ use [DBAJ licence](https://github.com/lupus590/DBaJ)?
 
 if using pathfinder as a base, will have to change to their license (open game content license) (advantage, lots of content already made. disadvantage, need to understand their rules, adventures may require modification by GM)
 http://www.wizards.com/default.asp?x=d20/oglfaq/20040123f
+http://paizo.com/pathfinderRPG/compatibility
 
 ##For things not mine
 Any images linked to or included in this git repo belong to the people who created them.
