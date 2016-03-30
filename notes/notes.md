@@ -2,7 +2,7 @@
 
 https://drive.google.com/folderview?id=0B-PTl1ncCsOqfkZxUnVpQ3NocTBFbUswckFuVXE1MnZBbGJDLTA4dkR5aW5zTXBtQ0l0VDQ&usp=sharing
 
-Spirits and bodies should  work nicely with seperated attribute system  
+Spirits and bodies should  work nicely with separated attribute system  
 https://www.crowfall.com/en/faq/crowsandvessels/
 
 #which dice system?
