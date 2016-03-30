@@ -2,6 +2,8 @@
 
 https://drive.google.com/folderview?id=0B-PTl1ncCsOqfkZxUnVpQ3NocTBFbUswckFuVXE1MnZBbGJDLTA4dkR5aW5zTXBtQ0l0VDQ&usp=sharing
 
+https://www.crowfall.com/en/faq/crowsandvessels/
+
 #which dice system?
 d10? d20? d6? I'm planning on this being a roll20 rpg more than a table top one, so I'm not limited to real dice
 
