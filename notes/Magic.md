@@ -3,6 +3,10 @@ http://www.springhole.net/writing/keeping-shapeshifters-from-getting-overpowered
 http://www.springhole.net/writing/better-and-more-interesting-powers.htm
 http://www.springhole.net/writing/keeping-magic-from-taking-over.htm
 
+multiple ways of casting? runes, staves
+
+runes and staves are foci, catalysts and/or conduites
+
 #3 types of magic?
 * inercio - energy
 * ??? - mass
