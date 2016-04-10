@@ -5,7 +5,11 @@ http://www.springhole.net/writing/keeping-magic-from-taking-over.htm
 
 multiple ways of casting? runes, staves
 
-runes and staves are foci, catalysts and/or conduites
+runes and staves are foci, catalysts and/or conduits
+
+everyone has some magic ability
+
+magic is stored in wells which fill from the environment over time. Emptying your well (also known as over-drawing) is usually painful and can be deadly.
 
 #3 types of magic?
 * inercio - energy
@@ -22,7 +26,7 @@ example spell: homing friendly fireball
 
 Every one has a magic pool, life points can be used as overdraw.
 
-Everybody pool rarely changes in size. All spells are unlocked from the start, but not all will be castable from level one. Instead spells get cheaper to cast, some spells can be super charged to increase effects.
+Everybody pool rarely changes in size. All spells are unlocked from the start, but not all will be cast-able from level one. Instead spells get cheaper to cast, some spells can be super charged to increase effects.
 
 
 #Magic is a science
