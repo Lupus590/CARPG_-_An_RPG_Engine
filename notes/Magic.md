@@ -13,6 +13,10 @@ everyone has some magic ability
 
 magic is stored in wells which fill from the environment over time. Emptying your well (also known as over-drawing) is usually painful and can be deadly.
 
+players make their own spells from components
+
+enchanted items simply cast spells when one or more conditions are met
+
 #3 types of magic?
 * inercio - energy
 * ??? - mass
