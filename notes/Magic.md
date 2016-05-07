@@ -17,7 +17,10 @@ players make their own spells from components
 
 enchanted items simply cast spells when one or more conditions are met
 
-#3 types of magic?
+# the origins of magic
+
+
+# 3 types of magic?
 * inercio - energy
 * ??? - mass
 * cognita - intelligence
