@@ -18,6 +18,13 @@ players make their own spells from components
 enchanted items simply cast spells when one or more conditions are met
 
 # the origins of magic
+from: https://www.facebook.com/photo.php?fbid=10207725981885643&set=o.735346629862173&type=3&theater
+* through study
+* tought by god
+* blessing of nature
+* from a deamon
+* from ancestor's power
+* from music
 
 
 # 3 types of magic?
