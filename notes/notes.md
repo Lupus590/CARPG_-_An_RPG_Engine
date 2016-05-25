@@ -1,4 +1,4 @@
-
+try to have high customization during off time (character creation/advancement and world building), but fast pace combat/narrative
 
 https://drive.google.com/folderview?id=0B-PTl1ncCsOqfkZxUnVpQ3NocTBFbUswckFuVXE1MnZBbGJDLTA4dkR5aW5zTXBtQ0l0VDQ&usp=sharing
 
