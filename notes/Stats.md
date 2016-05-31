@@ -11,7 +11,6 @@ creature/race creator http://www.springhole.net/writing/fantasy-and-science-fict
 * characteristic = a feature ot something or someone which identifies them
 * attribute = (see characteristic) or a real property which a a statistical analysis is attempting to describe
 * statistic = a factor or piece of data
-* 
 
 Assisting rolls - Average stat of all involved, roll as many times as people involved, keep best roll.
 
