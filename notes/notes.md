@@ -11,6 +11,10 @@ d10? d20? d6? I'm planning on this being a roll20 rpg more than a table top one,
 #Wishes made with a last breath
 When a PC or an important NPC is about to die they can perform an amazing action. This last act is designed to allow the near dead to save their allies, but it can be used to do almost anything.
 
+
+RPG where meta gaming is not only allowed but encouraged and lore?
+
+
 #by the book
 some items may unlock/boost skills
 
