@@ -5,6 +5,7 @@
  * light armour has little penalty to stats, but provides some damage resistance
  * heavy armour has more effect on stats, but provides the most damage resistance
  * Enchantments can change anything
+ * Armour has HP and takes full damage but reduces and changes damage type
 
 
 #weapons
