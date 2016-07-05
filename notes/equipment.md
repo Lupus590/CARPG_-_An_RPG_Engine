@@ -7,7 +7,9 @@
  * Enchantments can change anything
  * Armour has HP and takes full damage but reduces and changes damage type
 
+Weapons have HP, damage absorbed by armour reduces the weapons HP
 
+Weapon and armour HP can be restored by blacksmiths
 
 #weapons
 different weapons behave in different ways, but the training of the character is the major factor
