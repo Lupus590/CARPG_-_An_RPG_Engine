@@ -8,6 +8,7 @@
  * Armour has HP and takes full damage but reduces and changes damage type
 
 
+
 #weapons
 different weapons behave in different ways, but the training of the character is the major factor
 
@@ -16,6 +17,8 @@ combat time makes the assumption that the character has dropped their bags. char
 
 #item access and location
 Assessing items in a bag generally takes longer than those on your person, however bags can carry both more items and larger items. 
+
+Equipment has stat requirements, not meeting the required stats reduces effectiveness and/or prevents special action with that equipment.
 
 #slots
 ##clothing, armour and jullery
