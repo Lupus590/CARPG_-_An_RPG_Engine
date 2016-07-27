@@ -5,6 +5,14 @@ https://drive.google.com/folderview?id=0B-PTl1ncCsOqfkZxUnVpQ3NocTBFbUswckFuVXE1
 Spirits and bodies should work nicely with separated attribute system  
 https://www.crowfall.com/en/faq/crowsandvessels/
 
+http://crowfall.com/en/archetypes/
+
+http://crowfall.com/en/pantheon/
+
+http://crowfall.com/en/faq/gameplay/
+
+
+
 #which dice system?
 d10? d20? d6? I'm planning on this being a roll20 rpg more than a table top one, so I'm not limited to real dice
 
