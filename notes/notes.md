@@ -14,6 +14,7 @@ When a PC or an important NPC is about to die they can perform an amazing action
 
 RPG where meta gaming is not only allowed but encouraged and lore?
 
+http://mythology.wikia.com/wiki/Main_Page
 
 #by the book
 some items may unlock/boost skills
