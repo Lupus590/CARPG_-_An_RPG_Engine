@@ -24,3 +24,4 @@ Translations are welcome (even into US English), gitbook has a way to handle tra
 ##The original git repo/book is available from these locations
 * http://www.github.com/lupus590/RPG-Engine
 * http://www.gitbook.com/book/lupus590/rpg-engine
+* If you have made a fork then feel free to add it below (this can create a fork tree in the paper copies)
