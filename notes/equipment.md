@@ -11,6 +11,11 @@ Weapons have HP, damage absorbed by armour reduces the weapons HP
 
 Weapon and armour HP can be restored by blacksmiths
 
+#equipment qualities:
+* simple, decorative, ceremonial, ornate
+* cheap, average, good quality, master crafted
+* just made, well maintained, worn, damaged, badly aged, beyond repair
+
 #weapons
 different weapons behave in different ways, but the training of the character is the major factor
 
