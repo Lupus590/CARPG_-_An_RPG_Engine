@@ -11,6 +11,8 @@ runes and staves are foci, catalysts and/or conduits
 
 everyone has some magic ability
 
+spells require a form of energy transfer, most commonly kinetic but can also be sound, light or heat
+
 magic is stored in wells which fill from the environment over time. Emptying your well (also known as over-drawing) is usually painful and can be deadly.
 
 players make their own spells from components, assembling them in somthing like a flow chart
