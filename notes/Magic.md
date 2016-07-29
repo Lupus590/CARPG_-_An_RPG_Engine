@@ -13,7 +13,62 @@ everyone has some magic ability
 
 magic is stored in wells which fill from the environment over time. Emptying your well (also known as over-drawing) is usually painful and can be deadly.
 
-players make their own spells from components
+players make their own spells from components, assembling them in somthing like a flow chart
+
+https://www.reddit.com/r/rpg/comments/1furwg/pathfindertrying_to_find_a_spellbook/
+
+http://www.trovetokens.com/spellblank.html
+
+http://www.free-witchcraft-spells.com/online-spell-book.html
+
+http://www.spellsofmagic.com/spellbooks.html
+
+https://donjon.bin.sh/5e/spells/
+
+www.pojo.com/harrypotter/spelist.shtml
+
+https://en.wikipedia.org/wiki/List_of_spells_in_Harry_Potter
+
+http://www.pojo.com/harrypotter/spelist.shtml
+
+http://paizo.com/pathfinderRPG/prd/coreRulebook/spellLists.html
+
+https://www.pottermore.com/features/the-most-important-spells-harry-taught-DA
+
+http://www.hypable.com/harry-potter/list-of-spells/
+
+http://www.spellsofmagic.com/spells.html
+
+https://quizlet.com/9342873/harry-potter-spells-charms-incantations-and-curses-flash-cards/
+
+http://www.goodreads.com/topic/show/293109-harry-potter-spell-list
+
+http://harrypotter.wikia.com/wiki/List_of_spells
+
+http://paizo.com/pathfinderRPG/prd/coreRulebook/spellLists.html
+
+http://paizo.com/pathfinderRPG/prd/ultimateMagic/ultimateMagicSpellLists.html
+
+https://www.dnd-spells.com/spells
+
+http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard
+
+http://www.spellsofmagic.com/spells.html
+
+http://www.d20srd.org/srd/spellLists/sorcererWizardSpells.htm
+
+https://donjon.bin.sh/5e/spells/
+
+http://asmor.com/5e/spellbook/
+
+http://runescape.wikia.com/wiki/List_of_spells
+
+http://media.wizards.com/2015/downloads/dnd/DnD_SpellLists_1.0.pdf
+
+| Name | Type | Description |
+| -- | -- | -- |
+|  |  |  |
+
 
 enchanted items simply cast spells when one or more conditions are met
 
