@@ -19,6 +19,9 @@ Weapon and armour HP can be restored by blacksmiths
 #weapons
 different weapons behave in different ways, but the training of the character is the major factor
 
+https://en.wikipedia.org/wiki/Lists_of_weapons
+https://www.heroforge.com/
+
 #combat
 combat time makes the assumption that the character has dropped their bags. characters can get penitles if they keep their bags during combat time.
 
