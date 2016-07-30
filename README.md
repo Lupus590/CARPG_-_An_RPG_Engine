@@ -4,4 +4,4 @@ It will first be designed for fantasy settings, but sci-fi and modern will be in
 
 For those reading this on github, this is a non-code project.
 
-This project will be best viewed using [gitbook](http://www.gitbook.com) until I export it.
+This project will be best viewed using [gitbook](https://www.gitbook.com/book/lupus590/carpg_-_an_rpg_engine/details) until I export it.
