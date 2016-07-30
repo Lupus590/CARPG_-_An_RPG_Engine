@@ -1,6 +1,6 @@
 try to have high customization during off time (character creation/advancement and world building), but fast pace combat/narrative/gameplay when players actually meet
 
-avoid 'master' for the GM/DM - guide is better, this is to avoid players asking the GM for permission to do things (if it's in the book, it can be done) encourage the GM to be on the players side
+avoid 'master' for the GM/DM - guide is better, this is to avoid players asking the GM for permission to do things (if it's in the book, it can be done) encourage the GM to be on the players side, rolling openly and not hiding NPC stats helps with this.
 
 https://drive.google.com/folderview?id=0B-PTl1ncCsOqfkZxUnVpQ3NocTBFbUswckFuVXE1MnZBbGJDLTA4dkR5aW5zTXBtQ0l0VDQ&usp=sharing
 
