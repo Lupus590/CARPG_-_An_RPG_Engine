@@ -2,6 +2,8 @@ try to have high customization during off time (character creation/advancement a
 
 avoid 'master' for the GM/DM - guide is better, this is to avoid players asking the GM for permission to do things (if it's in the book, it can be done) encourage the GM to be on the players side, rolling openly and not hiding NPC stats helps with this. Note: Hiding rolls and stats does allow the GM to fudge, which can allow better narratives.
 
+http://arsludi.lamemage.com/index.php/732/story-games-101-third-person/
+
 https://drive.google.com/folderview?id=0B-PTl1ncCsOqfkZxUnVpQ3NocTBFbUswckFuVXE1MnZBbGJDLTA4dkR5aW5zTXBtQ0l0VDQ&usp=sharing
 
 Spirits and bodies should work nicely with separated attribute system  
@@ -14,6 +16,8 @@ http://crowfall.com/en/pantheon/
 http://crowfall.com/en/faq/gameplay/
 
 https://toolchain.gitbook.com/
+
+http://arsludi.lamemage.com/index.php/735/history-is-a-lie/
 
 #which dice system?
 d10? d20? d6? I'm planning on this being a roll20 rpg more than a table top one, so I'm not limited to real dice
