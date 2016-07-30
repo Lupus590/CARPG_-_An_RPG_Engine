@@ -1,4 +1,6 @@
-try to have high customization during off time (character creation/advancement and world building), but fast pace combat/narrative
+try to have high customization during off time (character creation/advancement and world building), but fast pace combat/narrative/gameplay when players actually meet
+
+avoid 'master' for the GM/DM - guide is better
 
 https://drive.google.com/folderview?id=0B-PTl1ncCsOqfkZxUnVpQ3NocTBFbUswckFuVXE1MnZBbGJDLTA4dkR5aW5zTXBtQ0l0VDQ&usp=sharing
 
