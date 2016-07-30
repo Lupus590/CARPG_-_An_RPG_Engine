@@ -16,7 +16,7 @@ Weapon and armour HP can be restored by blacksmiths
 * cheap, average, good quality, master crafted
 * just made, well maintained, worn, damaged, badly aged, beyond repair
 
-
+https://mdlthree.gitbooks.io/adventure-mechanics/content/weapons_theory.html
 
 #weapons
 different weapons behave in different ways, but the training of the character is the major factor
