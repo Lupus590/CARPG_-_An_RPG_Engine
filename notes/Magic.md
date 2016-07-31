@@ -67,9 +67,9 @@ http://runescape.wikia.com/wiki/List_of_spells
 
 http://media.wizards.com/2015/downloads/dnd/DnD_SpellLists_1.0.pdf
 
-| Name | Type | Description |
-| -- | -- | -- |
-|  |  |  |
+| Name | Type | Description | Cast difficutly | Cast Cost | Upkeep |
+| -- | -- | -- | -- | -- | -- |
+|  |  |  |  |  |  |  |
 
 
 enchanted items simply cast spells when one or more conditions are met
