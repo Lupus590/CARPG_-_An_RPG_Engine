@@ -71,9 +71,9 @@ cast difficulty, minimum mana to cast
 cast cost, amount of mana spent to cast
 upkeep, mana per action point spent to keep the spell running
 
-| Name | Type | Description | Cast difficulty | Cast Cost | Upkeep |
-| -- | -- | -- | -- | -- | -- |
-|  |  |  |  |  |  |  |
+| Name | Type | Description | Cast difficulty | Cast Cost | Upkeep | overcharge |
+| -- | -- | -- | -- | -- | -- | -- |
+|  |  |  |  |  |  |  |  |
 
 
 enchanted items simply cast spells when one or more conditions are met
