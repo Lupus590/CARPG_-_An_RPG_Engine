@@ -87,7 +87,6 @@ from: https://www.facebook.com/photo.php?fbid=10207725981885643&set=o.7353466298
 * from ancestor's power
 * ~~from music~~
 
-
 # 3 types of magic?
 * inercio - energy
 * ??? - mass
