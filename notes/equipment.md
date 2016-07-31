@@ -11,6 +11,8 @@ Weapons have HP, damage absorbed by armour reduces the weapons HP
 
 Weapon and armour HP can be restored by blacksmiths
 
+limit to magic items? (need some form of balance) enchanted items drain from the user, too many can be deadly?
+
 #equipment qualities:
 * simple, decorative, ceremonial, ornate
 * cheap, average, good quality, master crafted
