@@ -35,7 +35,7 @@ books can provide boosts to skills, however some situations may not allow you to
 
 * how to do character interaction??
 
-skills have affinities
+skills have affinities, any skill with an affinity with one you already own makes it cheaper
 
 #pain
 when character takes damage, compare damage to [modify from endurance and/or focus (average? larger? total?)] and compare to a pain table.
