@@ -67,6 +67,10 @@ http://runescape.wikia.com/wiki/List_of_spells
 
 http://media.wizards.com/2015/downloads/dnd/DnD_SpellLists_1.0.pdf
 
+cast difficulty, minimum mana to cast
+cast cost, amount of mana spent to cast
+upkeep, mana per action point spent to keep the spell running
+
 | Name | Type | Description | Cast difficulty | Cast Cost | Upkeep |
 | -- | -- | -- | -- | -- | -- |
 |  |  |  |  |  |  |  |
