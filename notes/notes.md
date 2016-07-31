@@ -22,6 +22,8 @@ http://arsludi.lamemage.com/index.php/735/history-is-a-lie/
 #which dice system?
 d10? d20? d6? I'm planning on this being a roll20 rpg more than a table top one, so I'm not limited to real dice
 
+explain dice and dice notation
+
 #Wishes made with a last breath
 When a PC or an important NPC is about to die they can perform an amazing action. This last act is designed to allow the near dead to save their allies, but it can be used to do almost anything.
 
