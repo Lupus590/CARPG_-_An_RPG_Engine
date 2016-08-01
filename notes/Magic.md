@@ -73,7 +73,7 @@ upkeep, mana per action point spent to keep the spell running
 
 | Name | Type | Description | Cast difficulty | Cast Cost | Cast Time | Upkeep | overcharge |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  
 
 enchanted items simply cast spells when one or more conditions are met
 
