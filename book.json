@@ -1,7 +1,6 @@
 {
-    "title" : "CARPG - An RPG Engine"
-    "root" : "./"
-    "description" : "Computer Assisted Roleplaying"
-    "author" : "Lupus590"
-    "language" : "en"
+	"title": "CARPG  - An RPG Engine",
+	"root": "./",
+	"description": "Computer Assisted Roleplaying",
+	"author": "Lupus590"
 }
