@@ -1,1 +1,1 @@
-please see [en/LICENSE.md](en/LICENSE.md)
+Please see [en/LICENSE.md](en/LICENSE.md)
