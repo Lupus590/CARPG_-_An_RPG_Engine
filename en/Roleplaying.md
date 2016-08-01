@@ -8,4 +8,4 @@ Of course, you and your friends can play pretend all on your own without any rul
 
 The rules cannot cover everything, and so the MC must also handle the common case where a player tries something that's not explicitly in the rules. Usually the group can come to an agreement as to what should happen, based on existing rules.
 
-source: https://lokathor.gitbooks.io/supertome/content/index.html
+> source: https://lokathor.gitbooks.io/supertome/content/index.html
