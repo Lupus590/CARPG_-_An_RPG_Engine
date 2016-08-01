@@ -8,11 +8,11 @@ if using pathfinder as a base, will have to change to their license \(open game 
 
 Any images linked to or included in this git repo belong to the people who created them.
 
-Also, some text is taken from wikipedia, reference links are included at the end of the page.
+Also, some text is taken from wikipedia, reference links are included as footnotes.
 
 ## Regarding my stuff
 
-Keep this file as is, otherwise, change what you like.
+Keep this file as is, otherwise, change what you like. You can add a link to the fork below if you like
 
 ## Regarding pull requests
 
@@ -25,5 +25,4 @@ Translations are welcome, however I will be unable to verify them. Gitbook has a
 ## The original git repo\/book is available from these locations
 
 * [https:\/\/www.gitbook.com\/book\/lupus590\/carpg\_-\_an\_rpg\_engine\/details](https://www.gitbook.com/book/lupus590/carpg_-_an_rpg_engine/details)
-* If you have made a fork then feel free to add it below \(this can create a fork tree in the paper copies\)
 
