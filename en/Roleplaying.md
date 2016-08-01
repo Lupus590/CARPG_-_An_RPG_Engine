@@ -1,4 +1,4 @@
-#What is Roleplaying?
+# What is Roleplaying?
 
 If you're really new you might not even know this much. A roleplaying game is where you pretend to be a character in some sort of imaginary world. A table-top roleplaying game is played in a group (often with a table, but sometimes over IM or Skype) where one player is the "Game Master" (GM) who describes the world, and everyone else controls a "Player Character" (PC) who acts within the world. Players describe the actions of their character, the GM describes the results, and then the players pick more actions and hear about more results. Usually for a few hours at a time, known as a "session". There's generally a single GM and 3 to 6 PCs.
 
