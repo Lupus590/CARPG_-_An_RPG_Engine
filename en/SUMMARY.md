@@ -2,7 +2,7 @@
 
 * Introduction
     * [License](LICENSE.md)
-    * [About the project](README.md)
+    * [About the Project](README.md)
     * [What is Roleplaying?](Roleplaying.md)
 
 
