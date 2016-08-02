@@ -19,6 +19,8 @@ players make their own spells from components, assembling them in somthing like 
 
 [https:\/\/www.reddit.com\/r\/rpg\/comments\/1furwg\/pathfindertrying\_to\_find\_a\_spellbook\/](https://www.reddit.com/r/rpg/comments/1furwg/pathfindertrying_to_find_a_spellbook/)
 
+[http:\/\/powerlisting.wikia.com\/wiki\/Superpower\_Wiki](http://powerlisting.wikia.com/wiki/Superpower_Wiki)
+
 [http:\/\/www.trovetokens.com\/spellblank.html](http://www.trovetokens.com/spellblank.html)
 
 [http:\/\/www.free-witchcraft-spells.com\/online-spell-book.html](http://www.free-witchcraft-spells.com/online-spell-book.html)
@@ -73,7 +75,7 @@ upkeep, mana per action point spent to keep the spell running
 
 | Name | Type | Description | Cast difficulty | Cast Cost | Cast Time | Upkeep | overcharge |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |
 
 enchanted items simply cast spells when one or more conditions are met
 
