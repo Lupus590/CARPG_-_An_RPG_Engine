@@ -1,5 +1,7 @@
 # About the Project
 
+The github link, for those reading from gitbook: https://github.com/lupus590/CARPG_-_An_RPG_Engine
+
 CARPG (working name) is a pen and paper RPG engine  which aims to be detailed, (mostly) realistic, flexible (class-less), and (hopefully) simple. It will achieve this by using computers in a assisting role.
 
 Computers have had two main interactions with RPGs, the most obvious is the creation of the CRPG[^1].
