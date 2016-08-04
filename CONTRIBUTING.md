@@ -6,4 +6,4 @@
 * Suggest your own ideas
 * Correct my spelling and grammar
 * Suggest balance tweaks
-* 
+* Improve the layout
