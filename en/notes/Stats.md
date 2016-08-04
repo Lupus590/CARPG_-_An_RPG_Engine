@@ -5,6 +5,8 @@ Diluted blood of gods as a lore to fast character progression of games?
 
 [https:\/\/lokathor.gitbooks.io\/supertome\/content\/races.html](https://lokathor.gitbooks.io/supertome/content/races.html)
 
+half breed races become infertile after so many halfs \(prevent "I'll have a bit of everything"\)
+
 creature\/race creator [http:\/\/www.springhole.net\/writing\/fantasy-and-science-fiction-creature-development-questions.htm](http://www.springhole.net/writing/fantasy-and-science-fiction-creature-development-questions.htm)
 
 * skill = the ability to do something well
@@ -23,9 +25,12 @@ xp from fail?
 
 books can provide boosts to skills, however some situations may not allow you to easily or safely read them
 
+skills have a level which can be averaged to be the equivilent of the player level. this can then be averaged with each pc to gve the party level which can help for encounter difficulty
+
 # possible stats
 
 * body
+
   * strength - effects character size and carry max
   * endurance - pain and fatigue resistance \(en
   * dexterity - fine manipulation, used in crafting and healing
