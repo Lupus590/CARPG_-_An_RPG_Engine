@@ -5,9 +5,16 @@ limitations of magic
 [http:\/\/www.springhole.net\/writing\/better-and-more-interesting-powers.htm](http://www.springhole.net/writing/better-and-more-interesting-powers.htm)
 [http:\/\/www.springhole.net\/writing\/keeping-magic-from-taking-over.htm](http://www.springhole.net/writing/keeping-magic-from-taking-over.htm)
 
-multiple ways of casting? runes, staves
+runes and staves provide various benefits:
 
-runes and staves are foci, catalysts and\/or conduits
+* Focus: reduces action point cost of casting
+
+* Catalyst: boost magic power but breaks if power goes past a limit
+
+* Conduit: boosts magica regen
+
+* Reservoir: stores magica which the mage can then use later, doesn't generate magica
+
 
 everyone has some magic ability
 
