@@ -1,5 +1,19 @@
 # A list of spells to turn into spell components
 
-* 
+* water walking
 
+* conjure\/summon
+* teleport
+* telepathy
+* telekinesis
+* heal
+* animate dead\/object
+* buff\/debuff stat
+* transmute
+* shapeshift
+* contol mind
+* speak language
+* speak to animal
+* invisibility
+* 
 
