@@ -3,6 +3,7 @@
 * water walking
 
 * conjure\/summon
+
 * teleport
 * telepathy
 * telekinesis
@@ -15,5 +16,9 @@
 * speak language
 * speak to animal
 * invisibility
+* aoe damage
+
+* touch damage
+* range damage
 * 
 
