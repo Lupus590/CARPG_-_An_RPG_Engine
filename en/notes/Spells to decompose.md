@@ -13,6 +13,7 @@
 * heal
 
 * animate dead\/object
+
 * buff\/debuff stat
 * transmute
 * shapeshift
@@ -31,6 +32,7 @@
 * sound
 
 * dispel
+
 * vampiric heal\/attribute
 * modify time \(slow, pause, accelerate\)
 * paralyze\/poison\/acid
@@ -49,6 +51,8 @@
 * wards\/mage armor
 
 * scatter projectile\/ rapid fire
-* 
+
+* magical illness
+* channel magica
 * 
 
