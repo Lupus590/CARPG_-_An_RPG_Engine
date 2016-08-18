@@ -15,6 +15,7 @@
 * animate dead\/object
 
 * buff\/debuff stat
+
 * transmute
 * shapeshift
 * contol mind
@@ -34,6 +35,7 @@
 * dispel
 
 * vampiric heal\/attribute
+
 * modify time \(slow, pause, accelerate\)
 * paralyze\/poison\/acid
 * create wall
@@ -53,6 +55,12 @@
 * scatter projectile\/ rapid fire
 
 * magical illness
+
 * channel magica
+* interupt cast
+* summon storage
+* prevent fall damage
+* gravity
+* 
 * 
 
