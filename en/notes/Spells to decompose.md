@@ -5,6 +5,7 @@
 * conjure\/summon
 
 * teleport
+
 * telepathy
 * telekinesis
 * heal
@@ -19,6 +20,19 @@
 * aoe damage
 
 * touch damage
+
 * range damage
+* light
+* sound
+* dispel
+* vampiric heal\/attribute
+* modify time \(slow, pause, accelerate\)
+* paralyze\/poison\/acid
+* create wall
+* disguise
+* magical trap
+
+* math and programming related things \(add, subtract, etc. random, rounding\)
+* event triggers
 * 
 
