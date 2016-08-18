@@ -7,6 +7,7 @@
 * teleport
 
 * telepathy
+
 * telekinesis
 * heal
 * animate dead\/object
@@ -22,6 +23,7 @@
 * touch damage
 
 * range damage
+
 * light
 * sound
 * dispel
@@ -32,7 +34,11 @@
 * disguise
 * magical trap
 
-* math and programming related things \(add, subtract, etc. random, rounding\)
+* math and programming related things \(add, subtract, etc. random, rounding, loops, ifs\)
+
 * event triggers
+* jumping targets
+
+* illusions
 * 
 
