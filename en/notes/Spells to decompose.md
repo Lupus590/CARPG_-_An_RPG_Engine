@@ -9,6 +9,7 @@
 * telepathy
 
 * telekinesis
+
 * heal
 * animate dead\/object
 * buff\/debuff stat
@@ -25,6 +26,7 @@
 * range damage
 
 * light
+
 * sound
 * dispel
 * vampiric heal\/attribute
@@ -37,8 +39,12 @@
 * math and programming related things \(add, subtract, etc. random, rounding, loops, ifs\)
 
 * event triggers
+
 * jumping targets
 
 * illusions
+
+* wards\/mage armor
+* 
 * 
 
