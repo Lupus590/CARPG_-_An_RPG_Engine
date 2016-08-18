@@ -11,6 +11,7 @@
 * telekinesis
 
 * heal
+
 * animate dead\/object
 * buff\/debuff stat
 * transmute
@@ -28,6 +29,7 @@
 * light
 
 * sound
+
 * dispel
 * vampiric heal\/attribute
 * modify time \(slow, pause, accelerate\)
@@ -45,6 +47,8 @@
 * illusions
 
 * wards\/mage armor
+
+* scatter projectile\/ rapid fire
 * 
 * 
 
