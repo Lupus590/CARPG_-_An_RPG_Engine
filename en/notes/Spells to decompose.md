@@ -17,6 +17,7 @@
 * buff\/debuff stat
 
 * transmute
+
 * shapeshift
 * contol mind
 * speak language
@@ -37,6 +38,7 @@
 * vampiric heal\/attribute
 
 * modify time \(slow, pause, accelerate\)
+
 * paralyze\/poison\/acid
 * create wall
 * disguise
@@ -57,10 +59,13 @@
 * magical illness
 
 * channel magica
+
 * interupt cast
 * summon storage
 * prevent fall damage
 * gravity
+* teleport
+* mark and recall
 * 
 * 
 
