@@ -4,6 +4,10 @@ avoid 'master' for the GM/DM - guide is better, this is to avoid players asking 
 
 http://arsludi.lamemage.com/index.php/732/story-games-101-third-person/
 
+http://www.dungeonworldsrd.com/the-world
+
+http://www.dungeonworldsrd.com/playing-the-game
+
 http://www.dungeonworldsrd.com/monsters
 
 https://drive.google.com/folderview?id=0B-PTl1ncCsOqfkZxUnVpQ3NocTBFbUswckFuVXE1MnZBbGJDLTA4dkR5aW5zTXBtQ0l0VDQ&usp=sharing
