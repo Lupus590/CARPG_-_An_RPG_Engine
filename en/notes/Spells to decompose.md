@@ -19,6 +19,7 @@
 * transmute
 
 * shapeshift
+
 * contol mind
 * speak language
 * speak to animal
@@ -40,6 +41,7 @@
 * modify time \(slow, pause, accelerate\)
 
 * paralyze\/poison\/acid
+
 * create wall
 * disguise
 * magical trap
@@ -61,11 +63,13 @@
 * channel magica
 
 * interupt cast
+
 * summon storage
 * prevent fall damage
 * gravity
 * teleport
 * mark and recall
+* 
 * 
 * 
 
