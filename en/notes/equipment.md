@@ -27,9 +27,7 @@ limit to magic items? \(need some form of balance\) enchanted items drain from t
 
 [http:\/\/tinkers-construct.wikia.com\/wiki\/Material\_Stats](http:\/\/tinkers-construct.wikia.com\/wiki\/Material\_Stats)
 
-
-
-
+[https://drive.google.com/file/d/0BwxZ_FGOBot3WW16cXpLd2hjRXM/view](https://drive.google.com/file/d/0BwxZ_FGOBot3WW16cXpLd2hjRXM/view)
 
 # weapons
 
