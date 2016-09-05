@@ -31,6 +31,8 @@ limit to magic items? \(need some form of balance\) enchanted items drain from t
 
 [https://drive.google.com/file/d/0BwxZ_FGOBot3WW16cXpLd2hjRXM/view](https://drive.google.com/file/d/0BwxZ_FGOBot3WW16cXpLd2hjRXM/view)
 
+[http://ftb.gamepedia.com/Getting_Started_(Tinkers%27_Construct)#Modifiers](http://ftb.gamepedia.com/Getting_Started_(Tinkers%27_Construct)#Modifiers)
+
 # weapons
 
 different weapons behave in different ways, but the training of the character is the major factor
