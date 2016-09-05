@@ -25,6 +25,12 @@ limit to magic items? \(need some form of balance\) enchanted items drain from t
 
 [http:\/\/www.dungeonworldsrd.com\/equipment](http://www.dungeonworldsrd.com/equipment)
 
+[http:\/\/tinkers-construct.wikia.com\/wiki\/Material\_Stats](http:\/\/tinkers-construct.wikia.com\/wiki\/Material\_Stats)
+
+
+
+
+
 # weapons
 
 different weapons behave in different ways, but the training of the character is the major factor
@@ -48,27 +54,33 @@ Equipment has stat requirements, not meeting the required stats reduces effectiv
 ## clothing, armour and jullery
 
 * head
+
   * face
   * eyes
   * mouth
 
 * neck
+
 * chest
 * back
 * waist
 * \(the following are separate for left an right, but only have one entry\)
 * hand
+
   * wrist
   * finger x5
 
 * forearm
+
 * shoulder
 * upper arm
 * foot
+
   * ankle
   * toes x5
 
 * calf
+
 * thigh
 
 ## equipment\/items\/weapons
