@@ -9,6 +9,16 @@ half breed races become infertile after so many halfs \(prevent "I'll have a bit
 
 creature\/race creator [http:\/\/www.springhole.net\/writing\/fantasy-and-science-fiction-creature-development-questions.htm](http://www.springhole.net/writing/fantasy-and-science-fiction-creature-development-questions.htm)
 
+* All of these for body and mind
+* Strength
+* Speed
+* Endurance
+* Precision
+* everything else is is a skill which uses a cobination of the above
+
+
+
+
 * skill = the ability to do something well
 * talent = natural aptitude
 * trait = distinguishing quality\/characteristic
