@@ -4,6 +4,8 @@ try to have high customization during off time (character creation/advancement a
 
 avoid 'master' for the GM/DM - guide is better, this is to avoid players asking the GM for permission to do things (if it's in the book, it can be done) encourage the GM to be on the players side, rolling openly and not hiding NPC stats helps with this. Note: Hiding rolls and stats does allow the GM to fudge, which can allow better narratives.
 
+http://www.creightonbroadhurst.com/gygax-on-tracking-time-in-the-campaign/
+
 http://arsludi.lamemage.com/index.php/732/story-games-101-third-person/
 
 http://www.creightonbroadhurst.com/whatever-happened-to-wizards-guilds/
