@@ -6,6 +6,8 @@ avoid 'master' for the GM/DM - guide is better, this is to avoid players asking 
 
 http://arsludi.lamemage.com/index.php/732/story-games-101-third-person/
 
+http://www.creightonbroadhurst.com/whatever-happened-to-wizards-guilds/
+
 http://www.dungeonworldsrd.com/the-world
 
 http://www.dungeonworldsrd.com/playing-the-game
