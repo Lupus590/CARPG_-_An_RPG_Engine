@@ -8,6 +8,8 @@ http://arsludi.lamemage.com/index.php/732/story-games-101-third-person/
 
 http://www.creightonbroadhurst.com/whatever-happened-to-wizards-guilds/
 
+http://www.creightonbroadhurst.com/gygax-on-tracking-time-in-the-campaign/
+
 http://www.dungeonworldsrd.com/the-world
 
 http://www.dungeonworldsrd.com/playing-the-game
