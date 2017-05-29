@@ -7,3 +7,12 @@
 * Correct my spelling and grammar
 * Suggest balance tweaks
 * Improve the layout
+* Translate \(I wouldn't bother with notes\)
+
+## Please don't do these:
+
+* delete stuff \(unless you have copied it to another location in the repo or it was a dupulicate\)
+* vandalise
+* 
+
+
