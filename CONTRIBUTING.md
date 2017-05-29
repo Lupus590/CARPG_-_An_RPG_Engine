@@ -13,6 +13,6 @@
 
 * delete stuff \(unless you have copied it to another location in the repo or it was a dupulicate\)
 * vandalise
-* 
+
 
 
