@@ -18,7 +18,7 @@ For those reading this on github, this is a non-code project.
 
 This project will be best viewed using [gitbook](https://www.gitbook.com/book/lupus590/carpg_-_an_rpg_engine/details) until I export it. Due to having issues with gitbook, please use github for all interactions \([issues](https://github.com/lupus590/CARPG_-_An_RPG_Engine/issues)/[pullrequests](https://github.com/lupus590/CARPG_-_An_RPG_Engine/pulls)\). I would prefer that gitbook is only used for reading rendered copies.
 
-The character sheet was made with LibreOffice and is \[available\]\(https://www.libreoffice.org/\) for free, so if you are experiensing issues with the character sheet then try opening it with LibreOffice.
+The character sheet was made with LibreOffice and is [available](https://www.libreoffice.org/) for free, so if you are experiensing issues with the character sheet then try opening it with LibreOffice.
 
 [^1]: CRPGs \(Computer RolePlaying Game\) are where the computer controls most of the game; it rolls the dice, puppeteers NPCs, presents the plot, etc.
 
