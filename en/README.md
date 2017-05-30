@@ -1,10 +1,10 @@
 # About the Project
 
-The github link, for those reading from gitbook: [https://github.com/lupus590/CARPG\_-\_An\_RPG\_Engine](https://github.com/lupus590/CARPG_-_An_RPG_Engine)
+The github link, for those reading from gitbook: [https://github.com/lupus590/CARPG_-_An_RPG_Engine](https://github.com/lupus590/CARPG_-_An_RPG_Engine)
 
-[![Join the chat at https://gitter.im/lupus590/CARPG\_-\_An\_RPG\_Engine](https://badges.gitter.im/lupus590/CARPG_-_An_RPG_Engine.svg)](https://gitter.im/lupus590/CARPG_-_An_RPG_Engine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/lupus590/CARPG_-_An_RPG_Engine](https://badges.gitter.im/lupus590/CARPG_-_An_RPG_Engine.svg)](https://gitter.im/lupus590/CARPG_-_An_RPG_Engine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-CARPG \(working name\) is a pen and paper RPG engine  which aims to be detailed, \(mostly\) realistic, flexible \(class-less\), and \(hopefully\) simple. It will achieve this by using computers in a assisting role.
+CARPG (working name) is a pen and paper RPG engine  which aims to be detailed, (mostly) realistic, flexible (class-less), and (hopefully) simple. It will achieve this by using computers in a assisting role.
 
 Computers have had two main interactions with RPGs, the most obvious is the creation of the CRPG[^1].  
 The other is how computers have changed where people can play 'traditional' pen and paper RPGs through services like  Skype and [roll20](http:\\roll20.net).
@@ -16,9 +16,9 @@ It will first be designed for fantasy settings, but sci-fi and modern will be in
 
 For those reading this on github, this is a non-code project.
 
-This project will be best viewed using [gitbook](https://www.gitbook.com/book/lupus590/carpg_-_an_rpg_engine/details) until I export it. Due to having issues with gitbook, please use github for all interactions \([issues](https://github.com/lupus590/CARPG_-_An_RPG_Engine/issues)/[pullrequests](https://github.com/lupus590/CARPG_-_An_RPG_Engine/pulls)\). I would prefer that gitbook is only used for reading rendered copies.
+This project will be best viewed using [gitbook](https://www.gitbook.com/book/lupus590/carpg_-_an_rpg_engine/details) until I export it. Due to having issues with gitbook, please use github for all interactions ([issues](https://github.com/lupus590/CARPG_-_An_RPG_Engine/issues)/[pullrequests](https://github.com/lupus590/CARPG_-_An_RPG_Engine/pulls)). I would prefer that gitbook is only used for reading rendered copies.
 
 The character sheet was made with LibreOffice and is [available](https://www.libreoffice.org/) for free, so if you are experiensing issues with the character sheet then try opening it with LibreOffice.
 
-[^1]: CRPGs \(Computer RolePlaying Game\) are where the computer controls most of the game; it rolls the dice, puppeteers NPCs, presents the plot, etc.
+[^1]: CRPGs (Computer RolePlaying Game) are where the computer controls most of the game; it rolls the dice, puppeteers NPCs, presents the plot, etc.
 
