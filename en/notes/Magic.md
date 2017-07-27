@@ -15,6 +15,14 @@ runes and staves provide various benefits:
 
 * Reservoir: stores magica which the mage can then use later, doesn't generate magica
 
+# Memorising spells
+Limited space which spell segments take up. Do you want one complex spell or several simple ones? Memory size is determined by a stat.
+
+Unlike other RPG systems with memorisation, the mage doesn't forget on cast. Spells can be cast from books, but the mage is at a higher risk as they are distracted by reading.
+
+
+
+
 
 everyone has some magic ability
 
