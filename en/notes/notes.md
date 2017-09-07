@@ -1,5 +1,33 @@
 fuzzy logic on stats?
 
+
+
+
+
+
+values
+  works simular to morals
+  things pc will try to do  get or keep
+  
+morality - catagorise acts
+  won't have a second thought: 
+  uncomfortable doing: i would like this to go unknown
+  doing this will haunt me for the rest of my days
+  i would rather torture and death than doing this
+
+value of people - these are general rules, some people may be valued differently due to a more complex relationship (ally/rival)
+  purely selfless: always thinks of how acts will help others (these others may be everyone, a guild or city, or the rest of the party), may forget there own needs/wants
+  mostly selfless: always thinks of others, but not to the point of self abandonment
+  equal: others are neither above or below them. happy to give as much as receive
+  whats in it for me: willing to help others but may need encouragement
+  purly selfish: keeps to their own issues, only helps others if they see it helping themselves in the future "not my problem"
+  
+  
+  
+  
+  
+  
+
 try to have high customization during off time (character creation/advancement and world building), but fast pace combat/narrative/gameplay when players actually meet
 
 avoid 'master' for the GM/DM - guide is better, this is to avoid players asking the GM for permission to do things (if it's in the book, it can be done) encourage the GM to be on the players side, rolling openly and not hiding NPC stats helps with this. Note: Hiding rolls and stats does allow the GM to fudge, which can allow better narratives.
