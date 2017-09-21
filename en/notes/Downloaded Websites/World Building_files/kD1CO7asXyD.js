@@ -1,0 +1,5 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["tZIKF"]); }
+
+__d('highlight',['Animation','Style'],(function a(b,c,d,e,f,g){function h(i,j,k,l){new (c('Animation'))(i).from('background',l||'#fff9d7').to('background',k||'#fff').ease(c('Animation').ease.both).duration(2000).ondone(function(){c('Style').set(i,'background','');j&&j()}).go()}f.exports=h}),null);
+__d('requiredIfPropIsTruthy',['sprintf'],(function a(b,c,d,e,f,g){function h(i,j){return function(k,l,m){if(!k[i])return null;if(k[l]===undefined)return new Error(c('sprintf')('Must supply %s to %s if property %s is truthy.',l,m,i));for(var n=arguments.length,o=Array(n>3?n-3:0),p=3;p<n;p++)o[p-3]=arguments[p];return j.apply(undefined,[k,l,m].concat(o))}}f.exports=h}),null);
+__d("XLtgPostTranslationController",["XController"],(function a(b,c,d,e,f,g){f.exports=c("XController").create("\/intl\/see_translation\/",{ftid:{type:"String",required:true},text_size:{type:"Enum",defaultValue:"medium",enumType:1}})}),null);
