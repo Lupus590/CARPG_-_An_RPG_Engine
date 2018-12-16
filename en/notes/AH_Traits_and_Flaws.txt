@@ -1,0 +1,98 @@
+The idea is to grab everything from Atomic Highway books and translate it to 100DOS for a race creation handbook.
+
+I expect this to go well.
+
+Acid Bite- 1L 1d6 rounds
+Acid Grip- 1L for contact
+Agile Flight?
+Amphibious- Bonus to swimming and breath holding?
+Armored- Natural armor that doesn't obstruct armor.
+Bioluminescence- 6 hours of light per day
+Body Morph- physically changing appearance
+Boneless- floppy bag at will
+Breathe Fire- Fire(1d5) once a day
+Bulging Eyes- Near 360 vision, reaction/notice buff
+Burning Gas- 6L gas attack once a day
+Burrow- Move thru dirt and sand at half move, leaving tunnel behind fitting their size, can expand for penalty.
+Carnivorus- Alternate eating for photosynthetics
+Chameleon- color and pattern changing.
+Chemical Charming- Animals or Plants ignore these.
+Climber- Bonus to climbing branches and the like.
+Draw Water- Naturally aquire moisture, no need to drink.
+Drill- Natural weapon can pierce wood.
+Echolocation- They have detailed spacial sense from sound.
+Edible Growths- Nutritious, Toxic, or Medicinal.
+Electroreception- sense electrical currents in mechanical or living beings
+Elongate- Get stretchy at will.
+Enduring- Bonus Wounds
+Enhanced Sense- Bonus to particular sense, some covered.
+Exoskeleton- Bulky shell not allowing armor.
+Extra head- Share physical attributes but different mentals and skills. May have arguments with itself.
+Fireproof
+Flash packets- built in flash grenades/deku nuts.
+Food Reservoir- Get a hump to store food and water.
+Furnace Gut- can eat any non-toxic organic material.
+Hard Gill- Exoskeleton gets tiny hairs that hold spare air and add to armor.
+Healing Molt- Exoskeleton can replace lost body parts.
+Honey Crop- Body cavity that can hold safe things.
+Honey Production- makes a meal per day of honey.
+Hypermobile- contortionist joints
+Independant Eyes- Can look in two directions at once.
+Invisible Silk- Silk is transparent with penalty to spot it.
+Irritant Bristles- Spiney hairs that impale. nuff said.
+Leaping- put a name and price range to Skirmisher jumping
+Mimic- Perfectly replicate sounds.
+Null- Imune to psychic powers.
+Patagia- Gliding Membranes between limbs.
+Photosynthetic- Needs sunlight instead of food?
+Prehensile Apendage- Tail or Trunk with bonus to some actions.
+Prehensile Feet- Use feet like hands when not walking on them.
+Regenerative- Heals faster
+Rooting- Become the dandilion, and be unmovable.
+Scented- Smells nice for bonus to people that smell them.
+Shell- Bony armor that can't be combined with worn armor, lesser protection to extremities.
+Silk Production- Make spider silk.
+Sonic Screech- Scream to deafen unprotected ears.
+Spines- Spikes on the back that protect the character a little. They can curl in a ball to make it all over. Can combine with Armored. Spines can be used as knives, and do damage as such.
+Spit Glue- Web them boys down, amirite?
+Spit Venom- Get snaky with it.
+Spore cloud- built in mace?
+Spray Acid- 7DTD Cop style
+Steel Mandibles- Drill can now pierce steel.
+Stench- skunk it up.
+Sticky Globules- get a grip and keep it too.
+Sticky Silk- Spider silk now sticky.
+Super Strength- Exoskeleton gains lift bonus.
+Toxic Sap- Getting bit poisons biter.
+Toxic Skin- Jungle Frog skin.
+Toxin Adaptation- take it once and gain immunity.
+Toxin Resistance- Blanket bonus to resistance.
+Vampiric- Drink blood for HP
+Venom- Snakebite
+Wall Crawler- Can climb smooth surfaces/cielings at half move. already covered?
+Wandering Eye- mobile eye that provides owner independant sight. Grows back if squished.
+Water Runner- Can charge or sprint across water, but sink if they stop.
+Waxy Exoskeleton- Heat Insulation
+Wilt- Plants can play dead.
+Wind Catcher- sail on the wind like dandelion fluffs.
+Winged- Replace arms with wings and feet with prehensile feet.
+
+Flaws
+Allergy- Something puts you down and makes you swell.
+Color Blind- Obvious
+Cosmetic Flaw- Obvious but harmless difference, social penalty
+Crude Hands- Ag penalty for fine details.
+Distinctive Odor- You smell like you and can't do a thing about it.
+Dull Sense- penalty in a sense.
+Ectothermic- Being Cold blooded has disadvantages.
+Fragile- Wounds penalty
+Glowing- Your skin glows just bright enough to give you away in the dark.
+Hemophilia- Bleeding is much more common and more dangerous.
+Light Sensitive- Penalty in bright light
+Moisture-Dependant- Have to stay wet or you dry out and die.
+Partial Biped- drops to all fours to charge or run.
+Psychic suceptability- Psychic powers have a bonus on you.
+Repulsive- Goddamn ugly, and kills your CH.
+Selective Diet- self explanatory
+Slow- Speed penalty
+Speech Impediment- has difficulty being understood. Fckin Scooby Doo style.
