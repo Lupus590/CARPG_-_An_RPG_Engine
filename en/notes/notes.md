@@ -8,9 +8,9 @@ fuzzy logic on stats?
 values
   works simular to morals
   things pc will try to do  get or keep
-  
+
 morality - catagorise acts
-  won't have a second thought: 
+  won't have a second thought:
   uncomfortable doing: i would like this to go unknown
   doing this will haunt me for the rest of my days
   i would rather torture and death than doing this
@@ -21,12 +21,12 @@ value of people - these are general rules, some people may be valued differently
   equal: others are neither above or below them. happy to give as much as receive
   whats in it for me: willing to help others but may need encouragement
   purly selfish: keeps to their own issues, only helps others if they see it helping themselves in the future "not my problem"
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
 
 try to have high customization during off time (character creation/advancement and world building), but fast pace combat/narrative/gameplay when players actually meet
 
@@ -92,5 +92,3 @@ http://www.critical-hits.com/blog/2009/08/05/silly-dm-minor-quests-are-for-playe
 http://www.d20source.com/post/79263118390/five-ways-to-speed-up-combat
 
 http://dungeonsmaster.com/2009/02/speeding-up-your-game/
-
-

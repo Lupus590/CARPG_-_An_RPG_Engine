@@ -166,4 +166,3 @@ from [http:\/\/www.critical-hits.com\/blog\/2015\/03\/12\/a-quick-dd-5e-spellcas
 * Barbarians don’t cast spells. You’ll just have to settle for raging.
 
 [http:\/\/www.critical-hits.com\/blog\/2010\/01\/12\/i-hate-magic-items\/](http://www.critical-hits.com/blog/2010/01/12/i-hate-magic-items/)
-

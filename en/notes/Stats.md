@@ -51,7 +51,7 @@ skills have a level which can be averaged to be the equivilent of the player lev
   * intelligence - proportional to character's IQ
   * willpower - magic resistance and magical power
   * focus - max spell casts in a time, pain and fatigue resistance\)
-  * perception - alertness, \(part of\) reaction time, 
+  * perception - alertness, \(part of\) reaction time,
 
 * how to do character interaction??
 
@@ -72,4 +72,3 @@ Beliefs, Goals and quirks
 [http:\/\/www.d20srd.org\/srd\/variant\/adventuring\/vitalityAndWoundPoints.htm](http://www.d20srd.org/srd/variant/adventuring/vitalityAndWoundPoints.htm)
 
 [http:\/\/www.d20source.com\/post\/79193018777\/changing-the-world-classes](http://www.d20source.com/post/79193018777/changing-the-world-classes)
-

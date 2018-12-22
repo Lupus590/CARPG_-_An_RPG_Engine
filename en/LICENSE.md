@@ -25,6 +25,3 @@ Translations are welcome, however I will be unable to verify them. Gitbook has a
 ## The original git repo/book is available from these locations
 
 * [https://www.gitbook.com/book/lupus590/carpg\_-\_an\_rpg\_engine/details](https://www.gitbook.com/book/lupus590/carpg_-_an_rpg_engine/details)
-
-
-
